@@ -1,6 +1,5 @@
 # Instructions
 *	Implement a solution in C# and prove that it meets the acceptance criteria.
-*	Separately implement a user interface 
 
 # Acceptance Criteria
 ## Given the following ordered classifications:
